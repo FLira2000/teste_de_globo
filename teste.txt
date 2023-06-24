@@ -1,0 +1,11 @@
+Importe os dados do arquivo excel enviado para um banco de dados SQL de sua preferência e elabore consultas para atender as seguintes questões de negócios:
+
+1. O time de negócios precisa tomar uma decisão de quais títulos licenciar e publicar na plataforma no proximo ano, mas para isso eles precisam saber quais os genero mais assistidos.
+
+2. O time de marketing quer a lista dos 10 títulos mais assistidos para realizar uma nova campanha de engajamento
+
+3. O time de tecnologia está querendo fazer uma otimização na infraestrutura da plataforma e precisa saber qual foi o data e hora com maior número de usuários assistindo simultaneamente e quantos usuários estavam assistindo neste momento
+
+4. Sugira uma possível melhoria na base de dados e explique
+
+5. Supondo que a base seja atualizada todo dia com novos dados, que as consultas anteriores que você fez atenderam super bem os times e que agora eles querem receber essas informações diariamente. Descreva qual estratégia você faria para atendê-los.
